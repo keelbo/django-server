@@ -1,0 +1,9 @@
+Create env
+python3 -m venv .env
+
+Activate env
+source .env/bin/activate
+
+Install Django
+python -m pip install Django
+
